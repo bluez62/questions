@@ -7,5 +7,5 @@
 }
 
 .after-submit{
-    visibility: hidden;
+    display: none;
 }
