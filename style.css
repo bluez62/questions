@@ -5,3 +5,7 @@
 .red-text{
     color: red;    
 }
+
+.after-submit{
+    visibility: hidden;
+}
